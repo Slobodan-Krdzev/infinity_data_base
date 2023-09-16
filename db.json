@@ -3676,20 +3676,18 @@
       "isTrending": true,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -3774,20 +3772,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -3872,20 +3868,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -3970,20 +3964,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -4164,20 +4156,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -4262,20 +4252,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -4360,20 +4348,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -4458,20 +4444,18 @@
       "isTrending": false,
       "priceForNights": 7,
       "startingPrice": 300,
-      "prices": [
-        {
-          "prices": [
-            350,
-            320,
-            300
-          ],
-          "lastMinutePrices": [
-            300,
-            280,
-            260
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 3,
       "availabilityDates": [
@@ -4516,20 +4500,18 @@
       "isTrending": true,
       "priceForNights": 7,
       "startingPrice": 310,
-      "prices": [
-        {
-          "prices": [
-            310,
-            340,
-            360
-          ],
-          "lastMinutePrices": [
-            290,
-            250,
-            200
-          ]
-        }
-      ],
+      "prices": {
+        "prices": [
+          450,
+          420,
+          400
+        ],
+        "lastMinutePrices": [
+          400,
+          380,
+          360
+        ]
+      },
       "state": "free",
       "stars": 5,
       "availabilityDates": [
